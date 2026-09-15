@@ -14,6 +14,7 @@ app.get("/", (req, res) => {
         <body>
             <h1>Hello from Kilomene server!</h1>
             <p>This page is being served by Node.js and Express.</p>
+            <h1>Alfred is cool </h1>
         </body>
         </html>
     `);
